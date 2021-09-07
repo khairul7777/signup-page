@@ -1,0 +1,70 @@
+/* Here is the comments */
+*:{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    width: 1500px;
+    margin: 0px;
+}
+.signup-form{
+    width: 40%;
+    margin: 30px auto;
+    padding: 30px;
+    background: #eee;
+}
+.avatar-img{
+    width: 100%;
+    text-align: center;
+}
+.avatar-img img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-bottom: 5px;
+}
+.signup-form h1{
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.main-form{
+    width: 100%;
+}
+.main-form label{
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 2px;
+}
+.main-form .form-control{
+    width: 95%;
+    padding: 10px;
+    margin: 0px 0px 20px;
+    color: #777;
+}
+.main-form .birth{
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.main-form .Gender{
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-bottom: 9px;
+}
+.main-form .btn{
+    padding:  5px 266px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #000;
+    border: 2px solid #000;
+   background-color: #bbbbc4;
+   margin-bottom: 30px;
+   display: block;
+   margin-top: 45px;
+}
